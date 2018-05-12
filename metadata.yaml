@@ -1,6 +1,9 @@
 _repo: Georgian-Poetry-1918-19_9621
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Georgian Poetry 1918-1919
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Marsh, Edward Howard, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3086
     wikipedia: http://en.wikipedia.org/wiki/Edward_Marsh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9621#Georgian-Poetry-1918-19
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
